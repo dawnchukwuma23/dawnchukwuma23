@@ -1,6 +1,5 @@
 ## Hi there 👋
-🧑‍💻 Flutter Developer 
-🧑‍💻 Frontend Developer 
+🧑‍💻 Flutter Developer | Frontend Developer.
 <!--
 **dawnchukwuma23/dawnchukwuma23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
